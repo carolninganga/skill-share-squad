@@ -1,7 +1,7 @@
 {
   "name": "skill-share-squad",
   "version": "1.0.0",
-  "description": "",
+  "description": "skill share",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
